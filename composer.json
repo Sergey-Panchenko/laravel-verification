@@ -1,0 +1,17 @@
+{
+    "name": "gx-dev/laravel-verification",
+    "description": "User Email Verification For Laravel 5.*",
+    "keywords": ["laravel", "framework", "user verification", "email verification", "user activation", "email activation", "user activation"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergey Panchenko",
+            "email": "boxfromukraine@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4",
+        "illuminate/support": "5.4.*"
+    },
+    "minimum-stability": "dev"
+}
